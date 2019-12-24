@@ -1,0 +1,2 @@
+git remote add origin https://github.com/Aa-1337/nick-fury.git
+git push -u origin master
